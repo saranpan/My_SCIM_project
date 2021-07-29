@@ -15,7 +15,7 @@
 
 ## ER Diagram
 
-![ER](https://ibb.co/N6zV94p)
+![ER](https://i.ibb.co/6R5nHdb/Screenshot-2021-07-25-13-07-03-264.png)
 
 ## Schema
 
