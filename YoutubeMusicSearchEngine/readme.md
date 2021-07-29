@@ -13,9 +13,17 @@
 
 ![Elder-Kid](https://i.ibb.co/2y76JcS/Screenshot-2021-07-25-13-07-03-264.png)
 
-Here's the structure 
+## ER Diagram
 
-![ss](https://i.ibb.co/2y76JcS/Screenshot-2021-07-25-13-07-03-264.png)
+![ER](https://ibb.co/N6zV94p)
+
+## Schema
+
+![sch](https://i.ibb.co/bPYy1CS/Screenshot-2021-07-25-13-07-03-264.png)
+
+## Normalization 
+![nm](https://i.ibb.co/LN32r3c/Screenshot-2021-07-25-13-07-03-264.png)
 
 
 
+you can experience our GUI yourself by running [YOUTUBE MUSIC FULL VERSION.ipynb](https://github.com/wallik2/My_project/blob/main/YoutubeMusicSearchEngine/YOUTUBE%20MUSIC%20FULL%20VERSION.ipynb)
